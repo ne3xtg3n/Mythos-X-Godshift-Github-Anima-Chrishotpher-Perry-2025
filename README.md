@@ -1,4 +1,168 @@
 # Mythos X: Godshift  
+## Pilot Episode 0 — **Before Heavenfall**  
+### Full Episode Script — 22-Minute Runtime  
+*By Christopher Perry — 2025*  
+*This is the complete, detailed prequel pilot episode script, setting the stage for Episode 1: Heavenfall. It expands the provided outline into a 22-minute anime episode with cosmic rivalries, high-stakes drama, and visual spectacle. Cassian embodies a heroic, light-speed guardian (foreshadowing Jax's pure-hearted strength), while Lorcan fuses dark ambition and unbreakable force (precursor to Kael's Vegeta-Luke Cage villainy). The storyline builds tension through godly drills, rebellion, and catastrophe, leading directly into the Mythquake of Episode 1. Images integrated for visual storytelling—optimized for GitHub to make this repo a shining anime showcase.*
+
+![Episode Banner](https://github.com/user-attachments/assets/463e19d8-9738-4706-8df9-df13e00c12c1)  
+*“Before the fall, there was the fracture.”*
+
+---
+
+**FADE IN:**
+
+**EXT. AETHERIA - CITY OF THE GODS - ETERNAL DAY (00:00–03:00)**  
+
+*The majestic floating city of Aetheria gleams in eternal light, spires of crystalline gold piercing endless clouds. Power hums like currency in the air. CASSIAN (golden-armored, agile warrior with light-speed grace, heroic like a proto-Jax) dashes through the sky, fists blazing with pure luminous energy. LORCAN (shadow-clad, massive build with unshakable force, dark and prideful like a proto-Kael) stands firm, his form rippling with violet entropy. This is a Mythquake drill—a ritual clash of rivals. But tension crackles like a live wire; Lorcan's eyes burn with contempt for the rules binding their power.*
+
+![Mythquake Drill](https://github.com/user-attachments/assets/b6c4341c-c6a4-4d4f-b418-29ece43f9bea)
+
+**(SOUND: Whistling wind from Cassian's speed, deep rumbles from Lorcan's impacts. Cosmic thunder echoes with each clash. Epic orchestral build.)**
+
+**LORCAN** (low rumble, sneering contempt)  
+“Still clinging to the laws, Cassian? Those chains keep our true potential caged—like weaklings afraid of their own strength.”  
+
+**CASSIAN** (calm resolve, mid-dash, voice steady like a guardian's oath)  
+“The laws protect the balance, Lorcan. Without them, we'd destroy everything we guard. Focus—show me your force!”  
+
+*Cassian strikes with a blinding light punch. Lorcan braces, absorbing the hit. Shockwave tears through the sky, fracturing clouds into faint hexagonal patterns—foreshadowing the greater quake to come. Lorcan remains unbeaten, but his satisfaction fades; he craves the Archons' limitless power.*
+
+**LORCAN** (gritting, pushing back with a shadow-infused counter)  
+“Balance? That's your excuse for holding back. I want the power to crush any threat—not play these games!”  
+
+*The ground quivers—not from their fists, but a deep, ancient thrumming from below. Lorcan glares at the flawless city, his gaze on the tremor.*
+
+**(SOUND: Subtle seismic rumble builds, overlaying the fight's impacts. Transition to ominous hum.)**
+
+**CUT TO:**
+
+**INT. AETHERIA'S CORE CHAMBER - CONTINUOUS (03:00–06:00)**  
+
+*ARCHONIA (ancient, regal Archon of Aetheria, wise and commanding) stands in the glowing heart of the city, surrounded by holographic energy maps. She feels the tremor in her bones— this is no drill; it's a rupture in reality. Far below, in the suppressed world, ancient powers stir: The Awakening Below. Her hand raises, sending a silent alarm to the highest echelons. The chamber shakes slightly, lights flickering violet-gold.*
+
+![Archonia's Alarm](https://github.com/user-attachments/assets/b0560c95-4368-489c-bdfd-8be051e05554)
+
+**(SOUND: Alarms blare subtly, core thrumming intensifies. Ethereal chimes signal the alert.)**
+
+**ARCHONIA** (urgent, voice echoing with authority)  
+“This tremor... it's not ours. The seals are weakening. The world below awakens—demanding what we've long suppressed.”  
+
+*Cut back to the drill: Archonia's voice booms over comms, calling it off.*
+
+**ARCHONIA (V.O.)** (firm)  
+“Cease the Mythquake drill! Unstable core detected. Return to stations—all warriors!”  
+
+*Lorcan smirks, seeing opportunity in the chaos. Cassian pauses, concerned.*
+
+**LORCAN** (sneering, under breath)  
+“Unstable? Or vulnerable? You hold back the power that could stop any threat, yet you fear the ground shaking.”  
+
+**CUT TO:**
+
+**EXT. AETHERIA SKYLINE - IMMEDIATELY AFTER (06:00–10:00)**  
+
+*Lorcan declares his rebellion, shattering the peace. He turns from Cassian, facing the churning darkness below the city. His aura flares violet, shadows coiling like unbreakable chains. Cassian reaches out, but Lorcan shrugs him off with prideful disdain.*
+
+![Lorcan's Declaration](https://github.com/user-attachments/assets/5da769c1-f2cf-4731-98a5-efde73de577d)
+
+**(SOUND: Dramatic swell—Lorcan's growl builds to a roar. City alarms wail in the background.)**
+
+**LORCAN** (defiant, voice booming)  
+“The only law I follow is the law of strength! If the Archons won't unleash our true power, I'll take it myself. This 'balance' ends now—Kael’s Rebellion begins!”  
+
+**CASSIAN** (shocked, trying to reason)  
+“Lorcan, wait! This tremor—it's a sign. Rebelling now could doom us all!”  
+
+*Lorcan ignores him, plunging toward the city's energy main—a glowing conduit of raw cosmic power. With a guttural shout, he rips the seals from his own power core, hand diving into the main. He consumes it, body reshaping in a terrifying surge.*
+
+![Power Consumption](https://github.com/user-attachments/assets/7f43ae13-859f-4a09-8f09-69746243b929)
+
+**(SOUND: Violent energy whoosh, crackling overload. Lorcan's agonized roar turns triumphant.)**
+
+**LORCAN** (ecstatic, power flooding him)  
+“Yes! This is ascension—the Aether Unleashed! No more chains!”  
+
+*His form bulks up, shadows hardening like unbreakable armor—foreshadowing Kael's transformation.*
+
+**CUT TO:**
+
+**EXT. AETHERIA - DESCENT BEGINS (10:00–14:00)**  
+
+*Lorcan’s greed tears Aetheria from its anchor. The city lurches, spires crumbling as it begins a slow, catastrophic descent—Heavenfall. Cassian watches in horror, the floating sanctuary now plummeting toward the world below. Alarms blare; gods and guardians scramble.*
+
+![Heavenfall Descent](https://github.com/user-attachments/assets/bcc5a776-d575-4d8d-976d-5490d90028cf)
+
+**(SOUND: Groaning metal, falling debris. City-wide panic screams. Ominous descent rumble.)**
+
+**CASSIAN** (desperate, flying toward the core)  
+“Lorcan, what have you done?! The city—it's falling! Not into void, but onto the world below!”  
+
+**LORCAN** (laughing maniacally, vanishing into the surge)  
+“Let it fall! From the ruins, true power rises. You'll thank me when you're forced to fight without your precious laws!”  
+
+*Cassian abandons pursuit, racing to Archonia at the core. The chamber is chaos—core overheating, threatening explosion.*
+
+**ARCHONIA** (shouting over alarms)  
+“We must bleed the pressure! The fall accelerates—impact will shatter both realms!”  
+
+**CUT TO:**
+
+**INT. AETHERIA CORE - CLIMAX (14:00–20:00)**  
+
+*The only salvation: the Wellspring—an ancient energy sink, dormant for millennia. Activating it means draining the overload, but the surge is lethal. Archonia moves to the rusty controls, hand glowing.*
+
+![Wellspring Controls](https://github.com/user-attachments/assets/0dd735a5-8615-434a-b5eb-8f75766b24b8)
+
+**(SOUND: Core whining to critical pitch. Tension strings build.)**
+
+**ARCHONIA** (resolute)  
+“Stand clear, Cassian. I initiate the Wellspring Activation. It's the only way.”  
+
+**CASSIAN** (strained, stepping forward)  
+“No. It takes all you have. Let me—my light can channel it!”  
+
+*He plunges hands into the unstable core, merging life-force with the chaos. Golden aura flares, forcing energy down into the Wellspring. Blinding white flash erupts, followed by a deep blue sigh as the Wellspring awakens, consuming the Aether.*
+
+![Cassian's Sacrifice](https://github.com/user-attachments/assets/8ab37dda-ad5b-4765-84c2-7894775d560c)
+
+**(SOUND: Explosive flash, then calming sigh. Cassian's pained gasp.)**
+
+**CASSIAN** (eyes glowing fire blue, breathless)  
+“The pressure... it's bleeding out. Hold... just hold...”  
+
+*The shuddering ceases. Aetheria halts, hovering just above the world—a ruin saved at ultimate cost. Cassian collapses, aura dimming.*
+
+![Wellspring Surge](https://github.com/user-attachments/assets/32dcf4c6-91f6-46bb-a723-0817a50e535f)
+
+**ARCHONIA** (kneeling beside him, voice breaking)  
+“You've saved us... but at what price? Lorcan's free now, carrying the seed of Oblivion.”  
+
+**CUT TO:**
+
+**EXT. AETHERIA RUINS - RESOLUTION (20:00–22:00)**  
+
+*Cassian, weakened, stares at the stabilized city. Lorcan vanished in the surge, now a volatile god unbound. The dark shift begins—leading to the Mythquake in Episode 1.*
+
+![Aftermath](https://github.com/user-attachments/assets/0a60d056-fa74-4701-85a8-0bbd40a60711)
+
+**(SOUND: Fading alarms, ethereal hum. Narrator overlay.)**
+
+**NARRATOR (V.O.)** (solemn)  
+“Heavenfall averted, but the fracture widens. The gods' rivalry spills to the world below—where mortals will rise... or shatter.”  
+
+**FADE OUT.**
+
+**POST-CREDIT TEASER (22:00–22:40)**  
+
+*A faint tremor echoes below. Cut to Earth: subtle hexagonal cracks in the sky. Whisper: “The Awakening begins...”*
+
+**FADE TO BLACK.**
+
+---
+
+*Pilot Ep0 complete: A 22-min arc of godly rivalry, rebellion, and sacrifice—priming the cosmic stakes for Heavenfall.*  
+**— Christopher Perry, 2025** 
+
 ## Episode 1 — **HEAVENFALL**  
 ### Full Episode Script — 22-Minute Runtime  
 *By Christopher Perry — 2025*  

@@ -125,6 +125,7 @@
 
 ![Cassian's Sacrifice](https://github.com/user-attachments/assets/8ab37dda-ad5b-4765-84c2-7894775d560c)
 
+
 **(SOUND: Explosive flash, then calming sigh. Cassian's pained gasp.)**
 
 **CASSIAN** (eyes glowing fire blue, breathless)  
@@ -148,7 +149,8 @@
 **(SOUND: Fading alarms, ethereal hum. Narrator overlay.)**
 
 **NARRATOR (V.O.)** (solemn)  
-“Heavenfall averted, but the fracture widens. The gods' rivalry spills to the world below—where mortals will rise... or shatter.”  
+“Heavenfall averted, but the fracture widens. The gods' rivalry spills to the world below—where mortals will rise... or shatter.”  ![1000017752](https://github.com/user-attachments/assets/90ff4853-a1e7-49ca-b518-5ff18b60d473)
+
 
 **FADE OUT.**
 
@@ -162,7 +164,7 @@
 
 *Pilot Ep0 complete: A 22-min arc of godly rivalry, rebellion, and sacrifice—priming the cosmic stakes for Heavenfall.*  
 **— Christopher Perry, 2025** 
-
+---
 ## Episode 1 — **HEAVENFALL**  
 ### Full Episode Script — 22-Minute Runtime  
 *By Christopher Perry — 2025*  
@@ -171,7 +173,7 @@
 Kael fuses prideful arrogance and ruthless dominance with unbreakable toughness and urban grit, creating a tragic, magnetic villain driven by resentment and a need to crush all challengers. The storyline pulses with escalating tension through their rivalry, escalating from cosmic incitement to personal betrayal, explosive clashes, and a world-shaking climax, ending on a mysterious hook. Images integrated where they belong for visual storytelling—optimized for GitHub rendering to make this repo shine as a professional animation showcase.*
 
 ![Episode Banner](https://github.com/user-attachments/assets/0cdf680d-db57-42dc-968e-c07a20e560c5)
-
+--
 ---
 
 **FADE IN:**

@@ -122,70 +122,118 @@ CIVILIAN 4 (Voice: A woman, frantic, looking at a hovering car):
 ---
 ![1000017493](https://github.com/user-attachments/assets/1eb3c1c0-29a8-476c-afaa-e7981ceed3b8)
 
-![1000017718](https://github.com/user-attachments/assets/6e0a2c11-1099-4528-b2cf-2fe637153c1e)
-
----
 
 
 ---
 ---
-EPISODE 1 — HEAVENFALL: SCENE 3 SCRIPT
+#HEAVENFALL: SCENE 3 SCRIPT
 ​Path: /docs/episodes/ep01_heavenfall/02_story_full_script.md
 Scene ID: EP01_SC03
 Title: The Awakening Below
 Runtime Allotment: 03:00–06:00
 ![1000017495](https://github.com/user-attachments/assets/ab238405-ed16-44ea-9a42-9df3470f1d38)
 
-<img width="1248" height="832" alt="1000017503" src="https://github.com/user-attachments/assets/1c1dd228-bd92-4ea0-9916-03a51cda3f19" />
-
 ![1000017494](https://github.com/user-attachments/assets/a2d657f8-7f3c-4a66-a52e-41026c174974)
 
 
-​📝 1. Narrative Purpose
-​Introduce Protagonists: This scene formally introduces our three key human characters: Jax Reyes (Strength), Dr. Michael Banner (Intellect), and Kael Drayven (Darkness/Potential Avatar).
-​Show Initial Power Manifestation: Visually demonstrates how the Mythquake's energy interacts with each character, hinting at their inherent connections to Aether and Oblivion.
-​Establish Character Archetypes: Quickly conveys the core essence of each character (boxer, scientist, mechanic with hidden pain).
-​Set Up Future Conflict/Roles: The distinct ways they react to the Mythflow's surge foreshadow their eventual roles in the larger narrative.
+1. Narrative Purpose
+​Introduce Protagonists & Unique Connection: Formally introduces Jax Reyes (Strength), Dr. Michael Banner (Intellect), and Kael Drayven (Darkness/Potential Avatar), highlighting their unique, resonant connections to the Mythflow.
+
+​Initial Power Manifestation & Escalation: Visually demonstrates how the Mythquake's energy directly imprints on each character, hinting at their inherent connections to the cosmic forces of Aether and Oblivion. This isn't just power; it's a destiny activating.
+
+​Establish Character Archetypes & Foreshadowing: Quickly conveys the core essence of each character (boxer, scientist, mechanic) but immediately shows them transcending those roles. The distinct ways they react to the Mythflow's surge directly foreshadow their eventual roles in the larger narrative as key players in the "Cosmic Race."
+
+​Foundation for Universal Understanding: Through Dr. Banner's reaction, the scene lays the groundwork for how humanity, starting with its brightest minds, will begin to decipher the "forbidden knowledge" of the universe, moving from mundane explanations to cosmic truths.
+
 ​⚙️ 2. Visuals & Directives
 ​SETTING: Earth – simultaneous close-ups on three distinct individuals in their respective environments.
+
 ​VISUAL DESCRIPTION:
-​JAX REYES: Mid-punch in a gritty, sweat-soaked boxing gym. As the shockwave hits, his eyes snap open, and tiny gold sparks begin to crawl up his arms, coiling around his muscles. He drops his sparring partner with an accidental, immense burst of strength. His expression is one of shock and confusion, a primal power stirring within.
-​DR. MICHAEL BANNER: Hunched over complex, flickering monitors in his dimly lit, cluttered lab. His glasses are askew, pushed up slightly by his hands as he clutches his head. As the energy pulses, intricate blue glyphs begin to rotate and shimmer around his head, seemingly decoding the chaotic energy patterns suddenly flooding his screens. He looks overwhelmed, yet also fascinated, by the sudden influx of information and patterns he can instinctively understand.
-​KAEL DRAYVEN: Underneath a broken-down vehicle in a desolate junkyard garage, covered in grease. As the violet energy ripples through the environment, his shadow seems to detach and flicker with an ominous violet flame. His eyes briefly glow a deep, unsettling purple. He feels a sudden, profound sense of emptiness and a chilling pull towards unraveling, a reflection of the Oblivion Archon's influence. He collapses to the ground, unconscious
+​JAX REYES: Mid-punch in a gritty, sweat-soaked boxing gym. As the shockwave hits, his eyes snap open, and tiny gold sparks begin to crawl up his arms, coiling around his muscles. He drops his sparring partner with an accidental, immense burst of strength. His expression is one of shock and confusion, a primal power stirring within that he doesn't comprehend. The other boxers in the gym are frozen in their own reactions to the Mythquake, oblivious to Jax's personal transformation.
+
+​DR. MICHAEL BANNER: Hunched over complex, flickering monitors in his dimly lit, cluttered lab. His glasses are askew, pushed up slightly by his hands as he clutches his head. As the energy pulses, intricate blue glyphs begin to rotate and shimmer around his head, seemingly decoding the chaotic energy patterns suddenly flooding his screens. His initial reaction is one of scientific disbelief, quickly turning to frantic, excited awe as he realizes the data defies all known physics. He looks overwhelmed, yet also deeply fascinated.
+
+​KAEL DRAYVEN: Underneath a broken-down vehicle in a desolate junkyard garage, covered in grease. As the violet energy ripples through the environment, his shadow seems to detach and flicker with an ominous violet flame. His eyes briefly glow a deep, unsettling purple. He feels a sudden, profound sense of emptiness and a chilling pull towards unraveling, a reflection of the Oblivion Archon's influence. He collapses to the ground, unconscious, his body subtly transforming with faint, spiraling violet sigils, unnoticed by anyone else.
+![1000017721](https://github.com/user-attachments/assets/efff0183-50a9-4fb8-b9ff-e4a3e33aedf4)
 
 ---
 ---
-![1000017503](https://github.com/user-attachments/assets/9d94556d-b66d-4f2c-a5aa-26f13161e57c)
+#HEAVENFALL: SCENE 4 SCRIPT
+​Path: /docs/episodes/ep01_heavenfall/02_story_full_script.md
+Scene ID: EP01_SC04
+Title: Kael's Rebellion
+Runtime Allotment: 06:00–10:00
 
+![1000017723](https://github.com/user-attachments/assets/8badcce3-78d9-4b7b-aa7b-a63b97797d0c)
 
-SCENE 4 — KAEL’S REBELLION (06:00–10:00)
-​SETTING: A desolate urban street, fractured and smoking from the Mythquake.
-​VISUAL: Kael Drayven stands amidst spreading destruction. A powerful violet aura tears up the asphalt around him, consuming cars and debris into swirling particles. His voice, now deeper and echoing, is overlaid with the cold, resonant tone of the Oblivion Archon. He is no longer himself. Jax Reyes arrives, his own gold aura flickering brightly around him, his expression one of shock and dawning dread. Their eyes lock. The ground between them shatters as a barely contained energy ripples.
+<img width="1248" height="832" alt="1000017722" src="https://github.com/user-attachments/assets/1864b931-de63-4138-90fa-94fd4c98a43d" />
+
+​📝 1. Narrative Purpose
+​First Direct Confrontation: Establishes the primary conflict between Jax and the now-corrupted Kael (Oblivion Archon).
+​Demonstrate Avatar Powers: Visually showcases the raw, destructive power of the Oblivion Archon through Kael, and Jax's nascent, unrefined Aether abilities.
+
+​Emotional Core: Jax's struggle to reach his friend, even as Kael is clearly lost, establishes the profound emotional stakes and Jax's compassionate nature.
+​Divine Intervention Hint: The subtle presence of the Aether Sovereign's energy from above hints that these powers are not merely internal but connected to higher entities.
+​World-Changing Stakes: The expanding destruction solidifies that this is not just a personal fight, but one that actively reshapes the world around them.
+
+​⚙️ 2. Visuals & Directives
+​SETTING: A desolate urban street, deeply fractured and smoking from the initial Mythquake. Buildings are partially collapsed, and rubble is scattered everywhere. The atmosphere is thick with dust and an eerie silence, broken only by the crackling of energy.
+
+​VISUAL DESCRIPTION:
+Kael Drayven stands amidst spreading destruction. A powerful violet aura pulsates around him, actively tearing up the asphalt and consuming cars and debris into swirling particles that vanish into nothingness. His posture is rigid, his eyes glowing an unnatural purple behind his visor, and his face a mask of cold emptiness. The outline of the Oblivion Archon hovers menacingly behind him, a dark, primal shadow of destruction made visible through his aura.
+
+​Jax Reyes arrives, skidding to a halt on a cracked piece of road. His own gold aura flickers brightly, less controlled than Kael's, indicating his novice state. His expression is one of shock and dawning dread, a profound sadness for his friend mixed with a fierce determination. Their eyes lock across the shattered street. The ground between them shatters further as a barely contained energy ripples from their converging powers.
+
+​From above, a faint, luminous golden light permeates the sky, subtly opposing the violet energy emanating from Kael, a silent acknowledgment of the Aether Sovereign's lingering influence. This golden light forms subtle, hexagonal patterns that try to mend the chaos, visually contrasting with Kael's destructive energy
+
+​🎭 CHARACTER DIALOGUE & CUES
+​(SOUND: GROWLING of Kael’s power, CRACKING of earth. Jax’s energy HUMS with a hesitant urgency. Distant SCREAMS from civilians just outside the immediate zone. Aether’s energy, a faint, majestic CHIME, subtly contrasts Oblivion’s deeper, menacing PULSE.)
+​JAX REYES (Voice: Shocked, recognizing Kael but bewildered by his actions; a mix of his kind nature and burgeoning protective instinct, with a touch of his usual friendly, inquisitive boxer demeanor even amidst chaos):
+“Yo Kael, right? What in… what are you doing?! Did you do all of this damage, bro? That ain't right, I mean, people are still out here. You know you’re glowing right? Look at you!”
+​KAEL DRAYVEN / OBLIVION ARCHON (Voice: Kael's usual gruff, street-hardened tone, now infused with the Archon's cold echo. Dismissive, annoyed by Jax's chatter, seeing him as an irrelevant softie, not a threat… yet.):
+“The strong clear the path. Get out of my way, pretty boy. Your glow is irritating me.”
+​JAX REYES (Voice: Growing anger but also a sense of disbelieving wonder, as he becomes aware of his own power for the first time):
+“You can’t just… delete everything! What’s your problem? Why are you doing this?! What glow— oooooo yeahh… wow, I am! THIS IS CRAZY, bro! Hey, Kael, why am I glowing like you?! Is it because of…”
+​KAEL DRAYVEN / OBLIVION ARCHON (Voice: More of Kael’s raw cynicism comes through, amplified by Oblivion’s logic. A hint of satisfaction in his ruthless efficiency, but now, a rapidly rising irritation at Jax’s ceaseless chatter and naive questions. He cuts Jax off sharply.):
+“—I’m not your brother! Move, or we’re going to have a problem, soft Jax. You always have been.”
+​JAX REYES (Voice: A burst of almost joyful realization despite the danger, excited by the recognition and the prospect of a challenge. He completely ignores the threat, focusing on the shared phenomenon.):
+“So you do know me, huh?! HA! I KNEW IT! You’re that street fighter, right? I heard you were the best. I’ve always wanted to fight you – not like, fight-fight, but you know… spar. So you think we’re glowing for the same reason? Is it like… a new kind of training?”
+​KAEL DRAYVEN / OBLIVION ARCHON (Voice: Exploding with absolute, unbridled frustration and raw power, cutting Jax off completely. The Archon's presence becomes fully pronounced in his tone, a mix of Kael’s street rage and Oblivion’s destructive impulse.):
+“PLEASE SHUT UP AND LEAVE ME ALONE!!!!!!!!!!!!!”
+(SOUND: ONE MASSIVE, POWERFUL AXE KICK, accompanied by a deafening violet WHOOSH, is unleashed towards Jax. The sound gets intensely louder, and a storm begins to swell around them, the atmosphere crackling with uncontrolled Mythflow energy.)
+“Or you’ll pay the ultimate price.”
+​JAX REYES (Voice: A startled gasp of genuine fear and surprise, immediately followed by an almost involuntary, exhilarated laugh. His voice is tight with adrenaline, a mix of terror and thrilling challenge.):
+(GASP!) “WHOA! That was…! (Excited, disbelieving laugh) That was FAST! I didn’t even see it! (A beat, then his voice drops slightly, now with a determined, focused edge, tinged with that excited wonder) But… I saw enough.”
+(SOUND: A sudden, sharp, golden CRACKLE as Jax blocks or narrowly dodges the axe kick. The storm swells further. The fighting music swells to a full, driving intensity, signaling the true start of the brawl.)
 
 ---
 ---
-![1000017504](https://github.com/user-attachments/assets/67223c8a-3004-4a24-abf3-7ca58fe1b416)
+HEAVENFALL: SCENE 5 SCRIPT (REVISED - JAX'S PARTIAL AWAKENING / KAEL'S FULL AVATAR)
+​Path: /docs/episodes/ep01_heavenfall/02_story_full_script.md
+Scene ID: EP01_SC05
+Title: The Aether Unleashed (First Spark)
+Runtime Allotment: 10:00–17:00 (7 minutes)
 
-![1000017505](https://github.com/user-attachments/assets/556f1ed9-6877-4efa-a0db-075d3bddc98d)
+![1000017730](https://github.com/user-attachments/assets/232f321e-f924-46d1-b9ce-9ec3df9fe296)
+<img width="1248" height="832" alt="1000017726" src="https://github.com/user-attachments/assets/46cbb6d9-fb74-4883-8ca6-e67b40238d58" />
+![1000017729](https://github.com/user-attachments/assets/2cd6ec7d-db5a-4b97-9dc7-f33ca0a8e092)
+![1000017725](https://github.com/user-attachments/assets/421ff829-9571-45a2-a023-abe81c17e482)
 
-
- SCENE 5 — THE AETHER UNLEASHED (10:00–17:00)
-​SETTING: The same devastated urban street.
-​VISUAL: Jax Reyes falls to one knee, overwhelmed by Kael's power. His golden aura sputters. Just as he seems on the verge of collapse, a whisper, the voice of the Aether Sovereign, echoes directly into his mind: "Creation is not mercy... it's choice." Golden sigils begin to spread rapidly across Jax's body, not just his skin, but forming into intricate, glowing geometric armor. Debris around him reverses direction, floating upwards; small, spreading fires unburn themselves and vanish. The AETHER FORM activates, enveloping Jax in luminous, radiant armor, perfectly matching the visual style of your Aether Sovereign in the character card. He rises, now a beacon of order.
-
-SCENE 6 — HEAVENFALL (17:00–22:00)
-​SETTING: High above the devastated city, reaching into the lower atmosphere.
-​VISUAL: Both Avatars, Jax (in AETHER FORM) and Kael (as OBLIVION ARCHON), ascend into the sky. Kael's form expands, tearing open a massive, jagged black rift in reality itself, threatening to swallow the city whole. Jax's Aether Form shines even brighter, his power radiating fractal golden light that attempts to seal the rift, a battle of pure cosmic will. Their dual energy attacks collide: a powerful Aether Burst of pure golden light from Jax meets Kael's devastating Null Vector Collapse—a cone of absolute darkness that devours light and matter. The collision creates an expanding white sphere of compressed energy and void. Everything within the sphere seems to stop, frozen in an impossible moment.
+​📝 1. Narrative Purpose
+​Kael's Unchallenged Power: Solidifies Kael's immediate and full mastery over the Oblivion Avatar form, establishing him as a truly formidable, dark force from the outset, fueled by his "pure evil heart."
+​Jax's Fledgling Potential: Rather than a full transformation, this scene shows Jax tapping into a fraction of the Aether Sovereign's power, a "first spark" that allows him to briefly fight back. This emphasizes his journey over two seasons.
+​Internal Struggle for Jax: Highlights Jax's struggle to control this nascent power, demonstrating his kind nature being pushed to its limits and his growing connection to the Aether Sovereign as a guide.
+​Aether's Guidance: The Aether Sovereign's whispered message ("Creation is not mercy... it's choice.") is now even more impactful as it offers guidance during a partial, difficult awakening, emphasizing the moral aspect of his path.
+​Ephemeral Aether Manifestation: Visually demonstrates the temporary nature of Jax's early Aether abilities – bursts of energy, fleeting sigils, not a stable, sustained form.
+​Shift in Battle Dynamics: Gives Jax just enough power to survive and put up a meaningful fight, making the confrontation against the fully powered Kael genuinely exciting, even if Jax is still outmatched in raw, sustained power.
+​Reinforce Order vs. Chaos: The brief, localized instances of debris reversal and fires unburning are critical to show the nature of Aether's power, even if Jax can't fully control or sustain it yet.
+​⚙️ 2. Visuals & Directives
+​SETTING: The same devastated urban street. The storm of Mythflow energy intensifies, with violet tendrils of energy snaking through the air from Kael, and golden sparks fighting back around Jax. The moon remains a silent, full observer.
+​VISUAL DESCRIPTION:
+​(PHASE 1: Kael's Full Avatar & Jax's Desperation - 10:00-12:00)
+Kael Drayven is now in his full OBLIVION AVATAR form, standing powerfully over Jax. His muscular, matte black armor with violet magma veins (matching character sheet) glows menacingly. His violet aura engulfs him, roaring with destructive energy that actively disintegrates more of the environment. The spectral form of the OBLIVION ARCHON looms directly behind Kael, a dark, primal shadow that seems to propel and amplify his every destructive move. Kael's face, visible through the Archon's influence, shows a cold, ruthless determination, devoid of his earlier frustration.
+​Jax Reyes is on one knee, severely battered and struggling, his expression a mix of pain, anger, and desperation. He is in his base form (white tank top, boxing wraps). His golden aura is sputtering, constantly being pushed back by Kael's overwhelming assault. The luminous, serene form of the AETHER SOVEREIGN watches from behind Jax, its golden light a flickering beacon against the encroaching darkness, clearly concerned. Jax is on the verge of collapsing.
 
 ---
 ---
 
-
-
-(https://github.com/user-attachments/assets/5468a351-4aaa-4ee4-b536-185dc12d7977)
-
-![1000017506](https://github.com/user-attachments/assets/c31b0992-8cc4-4351-b201-281dc788810d)
-
-POST-CREDIT SEQUENCE
-​SETTING: Dr. Banner's ruined, makeshift lab, a desolate cityscape in the background.
-​VISUAL: Dr. Banner, battered but alive, watches the distant, chaotic energy signature of the collapsing white sphere on a cracked monitor. A small fragment of raw, glowing energy (a mixture of gold and violet) drifts from the aftermath and comes to rest gently in his hand. He examines it with a mixture of awe and scientific curiosity. On his other monitors, now barely functional, cryptic text flickers into existence: WELLSPRING_PROTOCOL_01 — ACTIVE.

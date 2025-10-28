@@ -2,7 +2,7 @@
 ## Pilot Episode 0 — **Before Heavenfall**  
 ### Full Episode Script — 22-Minute Runtime  
 *By Christopher Perry — 2025*  
-*This is the complete, detailed prequel pilot episode script, setting the stage for Episode 1: Heavenfall. It expands the provided outline into a 22-minute anime episode with cosmic rivalries, high-stakes drama, and visual spectacle. Cassian embodies a heroic, light-speed guardian (foreshadowing Jax's pure-hearted strength), while Lorcan fuses dark ambition and unbreakable force (precursor to Kael's Vegeta-Luke Cage villainy). The storyline builds tension through godly drills, rebellion, and catastrophe, leading directly into the Mythquake of Episode 1. Images integrated for visual storytelling—optimized for GitHub to make this repo a shining anime showcase.*
+*This is the  prequel pilot episode script, setting the stage for Episode 1: Heavenfall. This 22-minute anime episode with cosmic rivalries, high-stakes drama, and visual spectacle. Cassian embodies a heroic, light-speed guardian (foreshadowing Jax's pure-hearted strength), while Lorcan fuses dark ambition and unbreakable force (precursor to Kael's Vegeta-Luke Cage villainy). The storyline builds tension through godly drills, rebellion, and catastrophe, leading directly into the Mythquake of Episode 1. Images integrated for visual storytelling—optimized for GitHub to make this repo a shining anime showcase.*
 
 ![Episode Banner](https://github.com/user-attachments/assets/463e19d8-9738-4706-8df9-df13e00c12c1)  
 *“Before the fall, there was the fracture.”*

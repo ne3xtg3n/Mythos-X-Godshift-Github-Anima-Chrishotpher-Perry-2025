@@ -143,6 +143,7 @@
 **EXT. AETHERIA RUINS - RESOLUTION (20:00–22:00)**  
 
 *Cassian, weakened, stares at the stabilized city. Lorcan vanished in the surge, now a volatile god unbound. The dark shift begins—leading to the Mythquake in Episode 1.*
+![1000017756](https://github.com/user-attachments/assets/6e1c8e83-cbdd-4ccd-a4fa-80a501b9cd86)
 
 ![Aftermath](https://github.com/user-attachments/assets/0a60d056-fa74-4701-85a8-0bbd40a60711)
 
@@ -151,6 +152,171 @@
 **NARRATOR (V.O.)** (solemn)  
 “Heavenfall averted, but the fracture widens. The gods' rivalry spills to the world below—where mortals will rise... or shatter.”  ![1000017752](https://github.com/user-attachments/assets/90ff4853-a1e7-49ca-b518-5ff18b60d473)
 
+
+---
+---
+
+<img width="1024" height="1024" alt="1000017755" src="https://github.com/user-attachments/assets/5a8ba82c-272e-406b-a441-ee862c8f65ec" />
+
+
+# Mythos X: Godshift  
+## Episode .05 Pilot — **The Return of Oblivion**  
+### Full Episode Script — 22-Minute Runtime  
+*By Christopher Perry — 2025*  
+*This episode bridges Episode 0: Before Heavenfall directly into the events of Heavenfall (the original Episode 1). It focuses on Lorcan—now fully embodying Oblivion—returning with vengeful might to cause the final fall of the heavens. His actions ignite a massive multi-universal battle, forcing Cassian (transformed into the Aether Sovereign through his sacrifice) into a fraternal, eternal struggle against his old friend and rival. The cosmic clash ripples across universes, fracturing seals and awakening mortal avatars below, setting the stage for the mythquake in Heavenfall. Script paced for 22 minutes with high-drama action, emotional betrayal, and visual spectacle—optimized for GitHub as a shining anime showcase. (No new images provided; placeholders used based on thematic fit from previous assets.)*
+<img width="1024" height="1024" alt="1000017755" src="https://github.com/user-attachments/assets/5a8ba82c-272e-406b-a441-ee862c8f65ec" />
+
+
+*“From ruins rises the void—old bonds shatter in eternal war.”*
+
+---
+
+**FADE IN:**
+
+**EXT. RUINS OF AETHERIA - ETERNAL TWILIGHT (00:00–03:00)**  
+
+*The shattered remnants of Aetheria hover precariously above the mortal world, a ghostly silhouette against fractured skies. Faint hexagonal cracks linger in the ether, remnants of the near-Heavenfall. CASSIAN (now AETHER SOVEREIGN: luminous gold-white form, crystalline and empowered, but scarred from his sacrifice—eyes glowing fire-blue) patrols the ruins, his light-speed grace tempered by weary resolve. He senses a dark pulse growing—Lorcan's return.*
+
+[Placeholder: Image prompt for Aetheria Ruins - Shattered floating city in eternal twilight, debris and hexagonal sky cracks, Aether Sovereign patrolling with glowing blue eyes, dramatic anime atmosphere.]
+
+**(SOUND: Eerie wind howls through debris. Subtle violet pulses build. Orchestral tension swells.)**
+
+**AETHER SOVEREIGN (CASSIAN)** (voice resonant, ancient yet pained)  
+“The seals hold... but for how long? Lorcan, old friend—if you're out there, turn back. Our rivalry doesn't have to end worlds.”  
+
+*A violet rift tears open in the void. LORCAN (now OBLIVION: massive, spiky violet-black entropy form, unbreakable shadow armor fused with raw chaos—pride amplified to villainous dominance) emerges, aura consuming light. He laughs, a guttural echo shaking the ruins.*
+
+**OBLIVION (LORCAN)** (cold sneer, booming with arrogance)  
+“Turn back? I've ascended beyond your 'balance,' Cassian. The heavens are mine to crush—starting with this pathetic remnant!”  
+
+*The ground quivers anew—Lorcan's might ignites the fall once more.*
+
+**CUT TO:**
+
+**EXT. MULTI-UNIVERSAL VOID - INTERCUT (03:00–06:00)**  
+
+*Ripples spread: parallel universes flicker into view—alternate realms where gods clash eternally. Lorcan's return fractures barriers, pulling them into a massive battle. Aether Sovereign dashes at light-speed, fists meeting Lorcan's unshakable force in a reality-warping skirmish.*
+
+[Placeholder: Image prompt for Universal Fracture - Multi-universal void with rippling parallel realms, gods clashing in light-speed combat, fractured barriers and collapsing stars, high-energy anime style.]
+
+**(SOUND: Cosmic thunder, dimensional rips. Aether's chime vs. Oblivion's growl intensifies.)**
+
+**AETHER SOVEREIGN** (mid-clash, pleading fraternal tone)  
+“We were brothers in arms, Lorcan! This power—you've let it consume you. Stop before you drag every universe into oblivion!”  
+
+**OBLIVION** (prideful rage, countering with void sweeps)  
+“Brothers? You chained me with your laws! Now, I am the void—unbreakable, unstoppable. Watch the heavens fall through my might!”  
+
+*Shockwaves breach universes: glimpses of collapsing stars, awakening entities. The fraternal struggle eternalizes—old friends locked in cosmic war.*
+
+**CUT TO:**
+
+**INT. AETHERIA'S SHATTERED CORE - CONTINUOUS (06:00–10:00)**  
+
+*ARCHONIA (weakened, rallying survivors) monitors the core, alarms blaring as Lorcan's energy surges. The Wellspring pulses erratically, echoing Cassian's sacrifice. Lorcan bursts in, consuming residual power, his form growing more monstrous.*
+
+[Placeholder: Image prompt for Core Invasion - Shattered core chamber with alarms and energy surges, Oblivion bursting in to consume power, Archonia defiant, chaotic anime destruction scene.]
+
+**(SOUND: Overload crackles, alarms wail. Lorcan's menacing pulse dominates.)**
+
+**ARCHONIA** (defiant, to Lorcan)  
+“Your rebellion failed once. The Sovereign will stop you again—the seals won't break!”  
+
+**OBLIVION** (sneering, hand plunging into the core)  
+“Failed? It awakened me! Now, I consume it all—igniting the battle across universes!”  
+
+*Aether Sovereign arrives, blocking with a luminous barrier. Their clash escalates, fracturing the core further—multi-universal echoes amplify the fight.*
+
+**AETHER SOVEREIGN** (straining, emotional)  
+“Lorcan, this isn't strength—it's madness! Remember our drills? We pushed each other to protect, not destroy!”  
+
+**OBLIVION** (exploding with dominance)  
+“Protection? Weakness! Feel my might—the heavens fall now!”  
+
+**CUT TO:**
+
+**EXT. CROSS-UNIVERSAL BATTLEFIELD - CLIMAX BUILD (10:00–14:00)**  
+
+*The struggle spills into merged realms: shattered heavens from multiple universes collide. Lorcan's void attacks tear portals, summoning chaotic entities. Aether Sovereign counters with precise light blasts, but the fraternal bond weighs heavy—each blow a betrayal.*
+
+[Placeholder: Image prompt for Multi-Universal Clash - Merged realms battlefield with shattered heavens colliding, void portals and chaotic entities, intense god combat in anime style with dynamic action poses.]
+
+**(SOUND: Dimensional explosions, roars from void beasts. Epic theme surges.)**
+
+**OBLIVION** (triumphant, unleashing a massive void wave)  
+“See? Universes bow to me! Your 'eternal struggle' ends in my shadow!”  
+
+**AETHER SOVEREIGN** (dodging, resolve hardening)  
+“Not while I stand, old friend. For every world you threaten, I'll fight—our bond demands it!”  
+
+*The battle ignites fully: allied gods from other universes join briefly, but Lorcan's unbreakable might overwhelms, pushing heavens toward final collapse.*
+
+**CUT TO:**
+
+**EXT. HEAVEN'S EDGE - INTENSIFYING STRUGGLE (14:00–18:00)**  
+
+*Aether Sovereign channels his fire-blue eyes' power—remnant of the Wellspring—creating a crystalline shield. Lorcan hammers it with entropy fists, cracks spreading like veins across realities. Below, on Earth, faint awakenings stir (foreshadowing Jax, Kael, Banner).*
+
+[Placeholder: Image prompt for Fraternal Duel - Heaven's edge with crystalline shield cracking under entropy attacks, close-up on gods' intense fraternal struggle, dramatic lighting and cosmic veins in anime style.]
+
+**(SOUND: Crystalline chimes shatter under growls. Universal groans echo.)**
+
+**AETHER SOVEREIGN** (pained, fraternal plea)  
+“We were rivals, not enemies! This fall—it's not victory; it's the end of everything we fought for!”  
+
+**OBLIVION** (arrogant laugh, breaking through)  
+“Rivals? I surpass you! Feel the might that ignites the multi-universal war—your heavens crumble!”  
+
+*The shield shatters; Lorcan's blow sends shockwaves downward, initiating the mythquake.*
+
+**CUT TO:**
+
+**EXT. FALLING HEAVENS - CLIMAX (18:00–21:00)**  
+
+*Heavens plummet fully—Lorcan's might realized. Aether Sovereign rallies for one final stand, merging with residual Aether to counter. The eternal struggle peaks: light vs. void in a reality-warping duel, universes bleeding into one.*
+
+[Placeholder: Image prompt for Heaven's Final Fall - Plummeting heavens in chaos, light vs. void duel at peak intensity, universes bleeding together, epic scale anime destruction.]
+
+**(SOUND: Deafening roars, dimensional tears. Climactic orchestral peak.)**
+
+**OBLIVION** (victorious roar)  
+“The battle begins—multi-universal chaos, all under my dominion!”  
+
+**AETHER SOVEREIGN** (desperate surge)  
+“Not while our bond endures! For the worlds below—I seal you away!”  
+
+*A massive collision: fists meet, igniting the inciting mythquake. Ripples awaken mortal avatars on Earth.*
+
+**CUT TO:**
+
+**EXT. EARTH'S SKY - RESOLUTION TEASER (21:00–22:00)**  
+
+*The clash fades; heavens stabilize momentarily as a ruin. Lorcan is repelled into the void, but his seed of Oblivion plants—leading to Heavenfall. Aether Sovereign weakens, gazing below.*
+
+[Placeholder: Image prompt for Mythquake Ignition - Earth's sky with hexagonal fractures from cosmic collision, awakening ripples below, teaser for mortal avatars in dramatic anime vista.]
+
+**(SOUND: Fading reverberation. Narrator overlay.)**
+
+**NARRATOR (V.O.)** (solemn)  
+“The fraternal struggle ignites eternal war. Heavens fall, universes clash—and below, mortals awaken to the Godshift.”  
+
+**FADE OUT.**
+
+**POST-CREDIT TEASER (22:00–22:40)**  
+
+*Earth: Hexagonal sky fractures. Whispers: “The mythquake comes...” Cut to Jax's gym, gold sparks faint.*
+
+**FADE TO BLACK.**
+
+---
+
+## How to Make Your GitHub Shine  
+Copy into **ep1_return_of_oblivion.md**. Images placed thematically (using previous assets as placeholders). Add to repo structure: `/scripts/ep0.md`, `/scripts/ep1.md`. Encourage stars/forks with badges.  
+
+*Episode 1 complete: A 22-min arc of return, multi-universal ignition, and fraternal struggle—seamlessly leading to Heavenfall.*  
+**— Christopher Perry, 2025**
+
+---
 
 **FADE OUT.**
 

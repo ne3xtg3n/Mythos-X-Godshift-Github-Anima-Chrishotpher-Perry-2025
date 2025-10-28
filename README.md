@@ -345,3 +345,289 @@ Dr. Banner (battered, glasses crooked, clothes singed, but driven) is hunched ov
 ​On his other monitors, now barely functional and severely cracked, cryptic text begins to flicker rapidly, bypassing firewalls and displaying a single, ominous message: WELLSPRING_PROTOCOL_01 — ACTIVE.
 ​KEY VISUAL (Image #7 - Dr. Banner's Discovery):
 
+(# Mythos X: Godshift  
+## Episode 1 — **HEAVENFALL**  
+### An Animation Bible & Reader-Friendly Showcase  
+*By Christopher Perry — 2025*  
+*All assets, storyboards, and reference images are embedded directly from the repo. Animators: use the **Visual Directives** as shot-by-shot briefs. Readers: enjoy the cinematic script with integrated key art. Enhanced for legendary status: mythic why-now, lived-in world, active geniuses, personal stakes, tragic triggers, and iconic artifacts. Now amplified with dramatic DBZ-inspired rivalry—Jax as the pure-hearted, everyman fighter like Goku (kind, excited by challenges, unbreakable spirit), Kael as a prideful, street-hardened anti-hero turned villain like Vegeta (arrogant, ruthless, seeking dominance) fused with Luke Cage's unbreakable toughness and urban grit, creating a massive villain persona that's tragic, unstoppable, and magnetically antagonistic. The storyline pulses with escalating tension, emotional betrayal, and explosive power-ups, making this a pulse-pounding anime pilot.*
+
+---
+
+![Episode Banner](https://github.com/user-attachments/assets/0cdf680d-db57-42dc-968e-c07a20e560c5)  
+*“When gods clash, mortals rise… or fall.”*
+
+---
+
+## Table of Contents  
+| Scene | Title | Runtime | Page |  
+|-------|-------|---------|------|  
+| EP01_SC01 | The Mythquake Clash | 00:00–01:20 | [↓](#ep01_sc01) |  
+| EP01_SC02 | The Aftershock | 01:20–03:00 | [↓](#ep01_sc02) |  
+| EP01_SC03 | The Awakening Below | 03:00–06:00 | [↓](#ep01_sc03) |  
+| EP01_SC04 | Kael’s Rebellion | 06:00–10:00 | [↓](#ep01_sc04) |  
+| EP01_SC05 | The Aether Unleashed (First Spark) | 10:00–17:00 | [↓](#ep01_sc05) |  
+| EP01_SC06 | Heavenfall | 17:00–22:00 | [↓](#ep01_sc06) |  
+| EP01_SC07 | Wellspring Activation (Post-Credit) | 22:00–22:40 | [↓](#ep01_sc07) |  
+
+---
+
+<a name="ep01_sc01"></a>
+## EP01_SC01 — **The Mythquake Clash**  
+**Runtime:** 00:00–01:20 (incl. title card)  
+
+![SC01 Key Art](https://github.com/user-attachments/assets/0cdf680d-db57-42dc-968e-c07a20e560c5)
+
+### 1. Narrative Purpose  
+- **Inciting Incident** – The “big bang” of the Mythos X universe. For eons they were bound; today, the seal shattered, awakening the eternal clash and igniting a dramatic rivalry that echoes through mortals.  
+- **Core Conflict** – Creation (Aether Sovereign) vs. Destruction (Oblivion Archon), mirroring the Goku-Vegeta dynamic on a cosmic scale: Aether's balanced heroism vs. Oblivion's prideful annihilation.  
+- **Stakes** – Planet-altering consequences visible **globally**, setting up Jax and Kael's parallel awakenings as avatars of this divine feud.  
+- **Tone** – Epic, high-stakes sci-fantasy. *Bang. Bang. Bang.* Mortals worldwide look skyward: *“What the hell is that?!”* — foreshadowing the human drama to come.
+
+### 2. Visual Directives (Animators)  
+| Element | Description |  
+|---------|-------------|  
+| **Aether Sovereign** | Luminous, crystalline gold/white energy. Clean lines, precise attacks—like Goku's pure, focused Kamehameha. |  
+| **Oblivion Archon** | Chaotic, spiky violet/black entropy. Attacks tear reality—like Vegeta's explosive, pride-driven Final Flash. |  
+| **Impact** | Reality-warping **shockwave** – spacetime ripples, hexagonal sky fractures. |  
+| **Earth** | Foreground, realistic palette. Atmosphere distorts; light flashes mortals can see. |  
+| **Camera** | Wide → jarring zoom → pull back. |  
+
+### 3. Sound Design  
+- **Impact:** Cosmic thunder + reality-tearing scream.  
+- **Aether:** Resonant chime.  
+- **Oblivion:** Crackling growl.  
+- **Earth:** Groaning sub-bass.  
+- **Transition:** Cosmic chaos → single human **heartbeat**.
+
+### 4. Voice Acting  
+| Character | Tone | Delivery |  
+|-----------|------|----------|  
+| **Aether Sovereign** | Serene, ancient, inevitable—like Goku's calm resolve | Slow, resonant declaration |  
+| **Oblivion Archon** | Cold, void-like, bored certainty—like Vegeta's arrogant sneer | Deep, guttural echo |  
+
+### 5. Script  
+```  
+(SOUND: CRACKING reality, DEAFENING THUD, COSMIC ROAR → silence. Sky fractures into HEXAGONS.)  
+
+**NARRATOR** (solemn, echoing faintly over the clash)  
+“For eons they were bound. Today, the seal shattered—igniting a rivalry that will consume worlds.”  
+
+**AETHER SOVEREIGN**  
+“Creation demands balance.”  
+
+**OBLIVION ARCHON**  
+“Then let balance die.”  
+
+(SOUND: Reverberation builds → distant human panic.)  
+
+**CIVILIAN 1** (overlapping)  
+“What… what IS that?!”  
+
+**CIVILIAN 2**  
+“The sky! It’s splitting—end of days!”  
+
+**CIVILIAN 3** (tripping)  
+“RUN!”  
+
+(SOUND: Chaos crescendo → fades into heartbeat.)  
+```
+
+---
+
+<a name="ep01_sc02"></a>
+## EP01_SC02 — **The Aftershock**  
+**Runtime:** 01:20–03:00  
+
+![SC02 Key Art](https://github.com/user-attachments/assets/a0fcb594-5f61-4000-89ac-53c029f79cf0)
+
+### 1. Narrative Purpose  
+- Humanize cosmic impact, building dramatic tension as everyday lives shatter.  
+- Global anomaly → bridge to Awakening, hinting at past events that fuel the rivalry's inevitability.  
+- Narrator hook: *“Some… hear the call.”* — teasing Jax and Kael's destined clash.
+
+### 2. Visuals  
+- **Locations:** City streets, labs, factories.  
+- **Effects:** Cars hover, lights flicker violet, leaves freeze, hexagonal sky web.  
+
+### 3. Script  
+```  
+(TRANSITION: Cosmic sounds → heartbeat.)  
+
+**CIVILIAN 4** (frantic)  
+“My car! It’s… floating?!”  
+
+**CIVILIAN 5**  
+“Giant spiderweb in the sky!”  
+
+**CIVILIAN 6** (child)  
+“Pretty colors, Mommy…”  
+
+**NEWS ANCHOR** (distant TV static, overlapping panic)  
+“This is not the first anomaly. Reports match the 1977 ‘Silent Flash’ over Tokyo… could this be the rivalry's return?”  
+
+**NARRATOR** (urgent sports-announcer)  
+“When gods clash, mortals tremble. But some… hear the call—and rise to rival it.”  
+```
+
+---
+
+<a name="ep01_sc03"></a>
+## EP01_SC03 — **The Awakening Below**  
+**Runtime:** 03:00–06:00  
+
+![Jax Awakening](https://github.com/user-attachments/assets/ab238405-ed16-44ea-9a42-9df3470f1d38)  
+![Banner Awakening](https://github.com/user-attachments/assets/a2d657f8-7f3c-4a66-a52e-41026c174974)  
+![Kael Awakening](https://github.com/user-attachments/assets/1eb3c1c0-29a8-476c-afaa-e7981ceed3b8)
+
+### 1. Narrative Purpose  
+- Introduce **Jax (Strength)** as Goku-like: kind-hearted boxer with naive excitement and unbreakable spirit. **Banner (Intellect)** as the analytical bridge. **Kael (Darkness)** as Vegeta-Luke Cage fusion: prideful, unbreakable street fighter with a tragic scar of past failures, turning him into a massive villain driven by dominance and resentment.  
+- First Mythflow imprints → destiny activation, heightening dramatic irony of their rivalry.
+
+### 2. Visuals (per character)  
+| Character | Environment | Effect |  
+|---------|-------------|--------|  
+| **Jax** | Boxing gym | Gold sparks coil muscles → accidental KO; wide-eyed grin like Goku discovering Super Saiyan. |  
+| **Banner** | Lab | Blue glyphs rotate around head → data overload; monitor flashes "MYTHFLOW RESONANCE: 99.7%". |  
+| **Kael** | Junkyard | Faint violet scar on wrist (unbreakable skin crack) glows; shadow detaches, violet sigils → collapse with a prideful snarl. |  
+
+### 3. Script Highlights  
+```  
+**JAX REYES** (mid-punch, eyes snapping open as gold sparks ignite)  
+(Grunts in shock, then excited laugh) “Whoa! This power… it’s like nothing I’ve felt! Gotta get stronger!” (Accidental burst KO’s partner.)  
+
+**DR. BANNER** (clutching head, frantic typing)  
+“Rerouting quantum lattice—come on, isolate the frequency!”  
+(Monitor: MYTHFLOW RESONANCE: 99.7%)  
+“That’s not possible… unless the old rivalries are real.”  
+
+**KAEL DRAYVEN** (under car, violet scar glowing, clenching fist)  
+(Gruff whisper, pride cracking) “Not again… this time, I’ll crush everything in my way.”  
+(Shadow detaches; collapses with violet sigils, unbreakable aura flickering like Luke Cage's skin.)  
+```
+
+---
+
+<a name="ep01_sc04"></a>
+## EP01_SC04 — **Kael’s Rebellion**  
+**Runtime:** 06:00–10:00  
+
+![SC04 Key Art](https://github.com/user-attachments/assets/8badcce3-78d9-4b7b-aa7b-a63b97797d0c)  
+![SC04 Key Art 2](https://github.com/user-attachments/assets/1864b931-de63-4138-90fa-94fd4c98a43d)
+
+### 1. Narrative Purpose  
+- First Avatar clash, dripping with dramatic rivalry: Jax's Goku-like camaraderie vs. Kael's Vegeta-like disdain and Luke Cage grit, building betrayal tension.  
+- Emotional core: Jax trying to reach his "rival" friend, while Kael's pride spirals into villainy.  
+- World-scale stakes, with Kael's unbreakable destruction ramping up the drama.
+
+### 2. Script  
+```  
+**JAX** (shocked, but Goku-like friendly grin)  
+“Yo Kael, what are you doing, bro? We were supposed to spar someday—you’re the unbreakable street king I’ve heard about!”  
+
+**KAEL/OBLIVION** (cold sneer, Vegeta arrogance fused with Cage's grit)  
+“The strong clear the path. Move, weakling. You’re not worthy of my power.”  
+
+**JAX** (excited, eyes widening at shared glow)  
+“Wait—WE’RE BOTH GLOWING! This is like that ultimate training I’ve dreamed of! Come on, rival—let’s figure this out together!”  
+
+**KAEL/OBLIVION** (exploding with prideful rage)  
+“PLEASE SHUT UP AND LEAVE ME ALONE!!!!!!!!!!!!! You’re nothing but a naive fool—I’ll crush you like the rest!”  
+
+(SOUND: Massive violet AXE KICK → storm swells, Kael's unbreakable aura shattering concrete like Luke Cage rampaging.)  
+```
+
+---
+
+<a name="ep01_sc05"></a>
+## EP01_SC05 — **The Aether Unleashed (First Spark)**  
+**Runtime:** 10:00–17:00  
+
+![Jax Spark](https://github.com/user-attachments/assets/232f321e-f924-46d1-b9ce-9ec3df9fe296)  
+![Kael Avatar](https://github.com/user-attachments/assets/46cbb6d9-fb74-4883-8ca6-e67b40238d58)
+
+### 1. Narrative Purpose  
+- Jax’s **First Spark** vs. Kael’s **Full Oblivion Avatar**, amplifying dramatic power-up like Goku's first Super Saiyan vs. Vegeta's Majin form—pure heart vs. prideful villainy.  
+- Theme: *Choice* over mercy, with Jax's spirit refusing to let his rival fall completely.
+
+### 2. Script  
+```  
+**JAX** (panting, Goku-like determination)  
+“You got armor now. That is so unfair… but Kael, we’re rivals, not enemies! My little sister’s school is two blocks from here—you can’t just destroy everything!”  
+
+**KAEL/OBLIVION** (Vegeta sneer, unbreakable Cage menace)  
+“This is not a game, Jax. This is the end. You chose the path of weakness—I choose dominance.”  
+
+**JAX** (groaning, but forcing a laugh)  
+“Ow… yeah, gold vs. purple. But I won’t let you go full villain on me, bro!”  
+
+**AETHER SOVEREIGN** (whisper in mind)  
+“Creation is not mercy… it’s choice.”  
+
+**JAX** (rising, unbreakable spirit igniting)  
+“Wrong. I’m choosing to stand up—for you, for everyone. Let’s see if your pride can handle a real fight!”  
+
+(SOUND: GOLDEN CONCUSSION BLAST → epic theme swells.)  
+```
+
+---
+
+<a name="ep01_sc06"></a>
+## EP01_SC06 — **Heavenfall**  
+**Runtime:** 17:00–22:00  
+
+![Ascent Clash](https://github.com/user-attachments/assets/efff0183-50a9-4fb8-b9ff-e4a3e33aedf4)  
+![Rift](https://github.com/user-attachments/assets/421ff829-9571-45a2-a023-abe81c17e482)
+
+### 1. Narrative Purpose  
+- Climactic Avatar battle in the stratosphere, dramatic like Goku-Vegeta fusions: Jax's pure power vs. Kael's villainous dominance.  
+- **Null Vector Collapse** vs. **Aether Burst** → **Genesis Seed** birth.  
+- Narrator: *“When gods fall… humanity rises.”* — underscoring the rivalry's human cost.
+
+### 2. Visual Phases  
+1. **Ascent (17:00–19:00)** – Blurring gold/violet trails, Jax dodging with Goku agility, Kael smashing with Vegeta-Cage force.  
+2. **Rift (19:00–21:00)** – Reality tears; moon cracks.  
+3. **Genesis Seed (21:00–22:00)** – Silence → deafening expansion.
+
+### 3. Script Highlights  
+```  
+**KAEL/OBLIVION** (arrogant roar)  
+"You cling to a dying world, Jax. Let it go. This is its cleansing—I am unbreakable!”  
+
+**JAX** (strained, Goku resolve)  
+"No way! This isn't 'cleansing,' Kael! I won’t let my rival destroy what we could protect together!”  
+
+**NARRATOR**  
+“And from their collision was born… the Genesis Seed.”  
+
+(SOUND: DEAFENING EXPLOSION as white sphere expands.)  
+```
+
+---
+
+<a name="ep01_sc07"></a>
+## EP01_SC07 — **Wellspring Activation** (Post-Credit)  
+**Runtime:** 22:00–22:40  
+
+![Banner Discovery](https://github.com/user-attachments/assets/3da8c1a7-c24f-4ef9-8f83-fd244a5348a3)  
+![Wellspring Text](https://github.com/user-attachments/assets/809be4c5-5455-42a4-a644-68839efaec9e)
+
+### 1. Narrative Purpose  
+- Dr. Banner finds **Mythflow fragment**, teasing how intellect could tip the dramatic rivalry.  
+- Cliffhanger: `WELLSPRING_PROTOCOL_01 — ACTIVE` — hinting at larger forces pulling Jax and Kael deeper.
+
+### 2. Visuals  
+- Ruined lab → crystalline fragment drifts into hand.  
+- Cracked monitors flicker forbidden text.
+
+---
+
+## Quick Links for Animators  
+- **[All SC01–SC07 Images (Folder)](https://github.com/Christopher-Perry/Mythos-X-Godshift-Github-Anima-Chrishotpher-Perry-2025/tree/main/assets/ep01_images)**  
+- **[Storyboard Templates (Google Drive)](https://drive.google.com/drive/folders/...)**
+- **[Color Palette PDF](https://github.com/Christopher-Perry/Mythos-X-Godshift-Github-Anima-Chrishotpher-Perry-2025/blob/main/docs/palettes/MythosX_Ep01_Palette.pdf)**  
+- **[Sound Design Cue Sheet](https://github.com/Christopher-Perry/Mythos-X-Godshift-Github-Anima-Chrishotpher-Perry-2025/blob/main/docs/audio/Ep01_Sound_Cues.xlsx)**  
+
+---
+
+*Enhanced for dramatic storyline: Jax's Goku heart clashes with Kael's Vegeta-Cage villainy in a rivalry that's personal, explosive, and world-shaking. The Mythquake was just the beginning.*  
+**— Christopher Perry, 2025**)

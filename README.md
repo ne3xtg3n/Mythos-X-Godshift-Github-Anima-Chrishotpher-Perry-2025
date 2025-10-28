@@ -345,6 +345,8 @@ Dr. Banner (battered, glasses crooked, clothes singed, but driven) is hunched ov
 ​On his other monitors, now barely functional and severely cracked, cryptic text begins to flicker rapidly, bypassing firewalls and displaying a single, ominous message: WELLSPRING_PROTOCOL_01 — ACTIVE.
 ​KEY VISUAL (Image #7 - Dr. Banner's Discovery):
 
+---
+---
 (# Mythos X: Godshift  
 ## Episode 1 — **HEAVENFALL**  
 ### An Animation Bible & Reader-Friendly Showcase  
@@ -375,7 +377,7 @@ Dr. Banner (battered, glasses crooked, clothes singed, but driven) is hunched ov
 ## EP01_SC01 — **The Mythquake Clash**  
 **Runtime:** 00:00–01:20 (incl. title card)  
 
-![SC01 Key Art](https://github.com/user-attachments/assets/0cdf680d-db57-42dc-968e-c07a20e560c5)
+![SC01 Key Art](![1000017716](https://github.com/user-attachments/assets/7d59b5eb-e38c-472b-9009-3f4fe1404902)
 
 ### 1. Narrative Purpose  
 - **Inciting Incident** – The “big bang” of the Mythos X universe. For eons they were bound; today, the seal shattered, awakening the eternal clash and igniting a dramatic rivalry that echoes through mortals.  

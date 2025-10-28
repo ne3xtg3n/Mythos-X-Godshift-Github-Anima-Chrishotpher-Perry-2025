@@ -219,21 +219,129 @@ Runtime Allotment: 10:00–17:00 (7 minutes)
 ![1000017729](https://github.com/user-attachments/assets/2cd6ec7d-db5a-4b97-9dc7-f33ca0a8e092)
 ![1000017725](https://github.com/user-attachments/assets/421ff829-9571-45a2-a023-abe81c17e482)
 
-​📝 1. Narrative Purpose
-​Kael's Unchallenged Power: Solidifies Kael's immediate and full mastery over the Oblivion Avatar form, establishing him as a truly formidable, dark force from the outset, fueled by his "pure evil heart."
-​Jax's Fledgling Potential: Rather than a full transformation, this scene shows Jax tapping into a fraction of the Aether Sovereign's power, a "first spark" that allows him to briefly fight back. This emphasizes his journey over two seasons.
-​Internal Struggle for Jax: Highlights Jax's struggle to control this nascent power, demonstrating his kind nature being pushed to its limits and his growing connection to the Aether Sovereign as a guide.
-​Aether's Guidance: The Aether Sovereign's whispered message ("Creation is not mercy... it's choice.") is now even more impactful as it offers guidance during a partial, difficult awakening, emphasizing the moral aspect of his path.
-​Ephemeral Aether Manifestation: Visually demonstrates the temporary nature of Jax's early Aether abilities – bursts of energy, fleeting sigils, not a stable, sustained form.
-​Shift in Battle Dynamics: Gives Jax just enough power to survive and put up a meaningful fight, making the confrontation against the fully powered Kael genuinely exciting, even if Jax is still outmatched in raw, sustained power.
-​Reinforce Order vs. Chaos: The brief, localized instances of debris reversal and fires unburning are critical to show the nature of Aether's power, even if Jax can't fully control or sustain it yet.
-​⚙️ 2. Visuals & Directives
-​SETTING: The same devastated urban street. The storm of Mythflow energy intensifies, with violet tendrils of energy snaking through the air from Kael, and golden sparks fighting back around Jax. The moon remains a silent, full observer.
-​VISUAL DESCRIPTION:
-​(PHASE 1: Kael's Full Avatar & Jax's Desperation - 10:00-12:00)
-Kael Drayven is now in his full OBLIVION AVATAR form, standing powerfully over Jax. His muscular, matte black armor with violet magma veins (matching character sheet) glows menacingly. His violet aura engulfs him, roaring with destructive energy that actively disintegrates more of the environment. The spectral form of the OBLIVION ARCHON looms directly behind Kael, a dark, primal shadow that seems to propel and amplify his every destructive move. Kael's face, visible through the Archon's influence, shows a cold, ruthless determination, devoid of his earlier frustration.
-​Jax Reyes is on one knee, severely battered and struggling, his expression a mix of pain, anger, and desperation. He is in his base form (white tank top, boxing wraps). His golden aura is sputtering, constantly being pushed back by Kael's overwhelming assault. The luminous, serene form of the AETHER SOVEREIGN watches from behind Jax, its golden light a flickering beacon against the encroaching darkness, clearly concerned. Jax is on the verge of collapsing.
+​🎭 CHARACTER DIALOGUE & CUES
+​(SOUND: The fighting music dies down to a heavy, ominous drone. Kael’s OBLIVION AVATAR power ROARS. Jax is on one knee, panting heavily. The Aether Sovereign's CHIME is faint, almost a whisper.)
+​JAX REYES (Voice: Exhausted, struggling for breath, slightly singed, but unable to stop talking. He looks up at Kael's enormous, armored form with curiosity.):
+
+(Panting heavily) "Whoa... okay, dude. You got armor now. That is so unfair. Is that... is that custom? Because it looks kinda bulky, bro."
+​KAEL DRAYVEN / OBLIVION AVATAR (Voice: Deep, resonant, absolutely cold. Kael's voice is completely consumed by the Archon's echo now. Utterly without patience, but slightly delayed, showing the effort of containing his fury.):
+
+"This is not a game, Jax. This is the end. You chose the path of weakness."
+(SOUND: The Oblivion Avatar unleashes a sudden, heavy pressure blast of violet energy. Jax groans in pain.)
+
+​JAX REYES (Voice: Groaning, falling further onto his knee, forcing a slightly painful laugh.):
+"Ow. Yeah, no, I get it, I get it! But like, the glow. Mine's still gold, right? And yours is like, black and purple. So who gets the better color scheme, you think? I'm betting on gold."
+
+​KAEL DRAYVEN / OBLIVION AVATAR (Voice: The Archon's echo snaps with raw irritation, his patience hitting zero. He is prepared to finish this with one final attack.):
+"Your endless prattling will be the first thing I extinguish. Oblivion is silence."
+
+​(SOUND: Kael's power screams to maximum charge. The air itself begins to crackle and disintegrate around him. The OBLIVION ARCHON's specter swells menacingly.)
+
+​JAX REYES (Voice: Desperate, eyes closed, realizing this is the end. His voice is tight with fear, but the fighter's instinct remains.):
+
+"I... I don't want to hurt anyone... but I can't let you hurt them, Kael."
+​(SOUND: A low, ethereal WHISPER echoes in Jax’s mind. The Aether Sovereign’s voice is soft but cuts through the chaos.)
+
+​AETHER SOVEREIGN (Voice: Soft, but commanding, ethereal, heard only by Jax):
+"Creation is not mercy... it's choice."
+​JAX REYES (Voice: A sudden, sharp inhale. A gasp of realization, not just power.):
+
+"Choice."
+​(SOUND: A sudden, immense GOLDEN CHIME erupts from Jax. His sputtering aura ROARS back to life. The heavy drone of Kael's power is momentarily drowned out. Debris WHOOSHES upwards, reversing course. The sound of FIRES SIZZLING and suddenly extinguishing.)
+
+​KAEL DRAYVEN / OBLIVION AVATAR (Voice: Absolute shock and rage, the Archon's echo cracking with disbelief at the resistance.):
+"IMPOSSIBLE! You are nothing!"
+
+​JAX REYES (Voice: RISING. Loud, strong, and centered. The confidence he has always lacked is suddenly present, fueled by the Aether's spark. He doesn't have the final form, but he has the strength to stand.):
+"Wrong. I'm choosing to stand up. (A moment of intense, focused effort) Let's see how much silence you can handle!"
+
+​(SOUND: A powerful GOLDEN CONCUSSION BLAST pushes Kael back miles. The fighting music EXPLODES into a renewed, epic theme, signaling the final confrontation has begun.)
 
 ---
+--
+#HEAVENFALL: SCENE 6 SCRIPT
+​Path: /docs/episodes/ep01_heavenfall/02_story_full_script.md
+Scene ID: EP01_SC06
+Title: Heavenfall
+Runtime Allotment: 17:00–22:00 (5 minutes)
+
+​📝 1. Narrative Purpose
+​Climactic Battle: Serves as the high point of Episode 1, showcasing the full destructive and restorative potential of the Avatars.
+​Establish Power Scaling: Demonstrates the immense power Jax can temporarily wield with the "First Spark" of Aether, allowing him to challenge the fully realized Oblivion Avatar, even if still at a disadvantage.
+
+​Thematic Zenith: Visually represents the ultimate clash between Creation/Order (Aether) and Destruction/Chaos (Oblivion), encapsulated by their Avatars.
+
+​Set Up Future Status Quo: The conclusion of this battle will leave a lasting impact on the world and the characters, shaping the narrative for future episodes.
+
+​End with a Mystery: The final outcome, particularly the "white sphere" and its aftermath, provides a compelling cliffhanger for Dr. Banner's post-credit discovery.
+
+​⚙️ 2. Visuals & Directives
+​SETTING: High above the devastated city, reaching into the lower atmosphere. The sky is a tumultuous canvas of clashing golden and violet Mythflow energy. The moon is still present, an enormous, silent witness.
+
+​VISUAL DESCRIPTION:
+​(PHASE 1: Ascent and Initial Clash - 17:00-19:00)
+Both Avatars, Jax (now radiating intense, unstable golden energy, covered in glowing sigils but still in his base form) and Kael (in his full OBLIVION AVATAR form), ascend rapidly into the sky. Their initial movements are incredibly fast, blurring trails of gold and violet light. Kael's attacks are wide, devastating sweeps of void energy that rip through the air, while Jax counters with precise, powerful golden energy blasts and swift martial arts, imbued with temporary Aether force.
+
+​Behind Kael, the OBLIVION ARCHON looms, constantly pushing destructive energy through him, urging him to greater devastation. Behind Jax, the AETHER SOVEREIGN glows brighter, its form resolute, channeling defensive and constructive Mythflow into Jax, subtly protecting him and empowering his counter-attacks.
+
+​As they climb higher, the destruction below the city becomes a backdrop, emphasized by the continuing storm. Kael aims to cause maximum damage to the world, while Jax focuses on containing his power and defending.
+​KEY VISUAL (Image #6 - Part 1: Ascent and Initial Clash):
+
+
+​🎭 CHARACTER DIALOGUE & CUES
+​(SOUND: The fighting music swells to a full, driving, orchestral intensity. Both Avatars' powers ROAR. A storm of Mythflow energy RAGES around them as they ascend.)
+
+​KAEL DRAYVEN / OBLIVION AVATAR (Voice: Deep, cold, filled with absolute certainty of his mission. The Archon's echo is perfectly fused with his own ruthless voice.):
+"You cling to a dying world, Jax. Let it go. This is its cleansing."
+​JAX REYES (Voice: Strained, but firm, fueled by the Aether's spark. He's still Jax, but with new confidence and a profound sense of purpose. Every word is a struggle against the overwhelming power.):
+"No way! This isn't 'cleansing,' Kael! This is just... wrecking everything! I'm not letting you take anyone else!"
+
+​(SOUND: Violent power clashes. EXPLOSIONS of golden and violet energy. City below groans.)
+
+​KAEL DRAYVEN / OBLIVION AVATAR (Voice: A cold sneer, mocking Jax's compassion. His attacks become more furious.):
+
+"Still playing the hero, boxer? The world doesn't need saviors. It needs to be remade. And I am the architect of its undoing."
+​(SOUND: Kael's power screams as he tears open a massive, jagged BLACK RIFT in reality itself. The sound is like fabric being violently ripped, combined with a deep, consuming VOID RUMBLE.)
+
+​JAX REYES (Voice: Alarm and desperation in his voice as he sees the rift forming, but quickly steeling himself. He's trying to think like a fighter, even against cosmic destruction.):
+
+"A rift?! Whoa, that's a big move! Okay, okay, uh... gotta close that up!"
+​(SOUND: Jax’s Aether energy ROARS, a pure, harmonious CHIME. He channels a powerful Aether Burst. The sound is like concentrated light and force, pushing against the void.)
+
+​KAEL DRAYVEN / OBLIVION AVATAR (Voice: A guttural laugh, filled with dark triumph.):
+"Futility! Behold the Null Vector Collapse!"
+​(SOUND: Kael's attack, a deep, consuming VOID RUMBLE, clashes directly with 
+
+Jax's Aether Burst. A moment of deafening, almost painful SILENCE as energies compress.)
+​NARRATOR (Voice: Solemn, impactful. Over the profound silence, then a gradual build of sound):
+“When gods fall… humanity rises.”
+​(SOUND: The SILENCE shatters. A DEAFENING, CRACKLING EXPLOSION as the white sphere forms and rapidly expands. The MOON itself seems to CRACK visually. All sound becomes distorted, compressed, then begins to fade into a lingering cosmic reverberation.)
 ---
+SCENE 7 — POST-CREDIT SEQUENCE
+​Path: /docs/episodes/ep01_heavenfall/02_story_full_script.md
+Scene ID: EP01_SC07
+Title: Wellspring Activation
+Runtime Allotment: 22:00–22:40 (40 seconds)
+
+![1000017489](https://github.com/user-attachments/assets/3da8c1a7-c24f-4ef9-8f83-fd244a5348a3)
+
+![1000017506](https://github.com/user-attachments/assets/809be4c5-5455-42a4-a644-68839efaec9e)
+
+SCENE 7 — POST-CREDIT SEQUENCE
+​Path: /docs/episodes/ep01_heavenfall/02_story_full_script.md
+Scene ID: EP01_SC07
+Title: Wellspring Activation
+Runtime Allotment: 22:00–22:40 (40 seconds)
+​📝 1. Narrative Purpose
+​The Scientist's Discovery: Brings Dr. Banner back into the narrative, confirming he survived the Mythquake and is actively pursuing its causes and effects.
+​Physical Evidence: Introduces the Mythflow fragment as the first tangible, physical evidence of the divine energy, confirming that the clash left behind physical remnants that can be studied.
+​The Next Arc: The flickering text, WELLSPRING_PROTOCOL_01 — ACTIVE, serves as the final, compelling cliffhanger, hinting at a secret project, military involvement, or an automated scientific response that will drive the plot in Episode 2.
+​Tonal Shift: Shifts the tone from epic divine combat to a quieter, more focused scientific/conspiracy thriller.
+​⚙️ 2. Visuals & Directives
+​SETTING: Dr. Banner's ruined, makeshift lab. It's a small, contained space littered with shattered equipment, twisted metal, and flickering monitors. The desolate cityscape from the battle forms a hazy, ruined backdrop through a broken window.
+​VISUAL DESCRIPTION:
+Dr. Banner (battered, glasses crooked, clothes singed, but driven) is hunched over a single, still-operational monitor displaying highly complex, oscillating energy signatures that match the chaos of the collapsing white sphere (from Scene 6).
+​As he stares, a small, crystalline fragment of raw, glowing energy (a mixture of gold and violet light, shimmering with faint, erratic sigils) drifts down from the smoke outside and comes to rest gently in his outstretched hand. He examines it with an expression of profound scientific awe and curiosity, oblivious to his surroundings.
+​On his other monitors, now barely functional and severely cracked, cryptic text begins to flicker rapidly, bypassing firewalls and displaying a single, ominous message: WELLSPRING_PROTOCOL_01 — ACTIVE.
+​KEY VISUAL (Image #7 - Dr. Banner's Discovery):
 

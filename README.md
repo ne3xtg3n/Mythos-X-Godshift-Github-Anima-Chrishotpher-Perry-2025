@@ -160,7 +160,7 @@
 
 
 # Mythos X: Godshift  
-## Episode .05 Pilot — **The Return of Oblivion**  
+## Episode 0 Part2 Pilot — **The Return of Oblivion**  
 ### Full Episode Script — 22-Minute Runtime  
 *By Christopher Perry — 2025*  
 *This episode bridges Episode 0: Before Heavenfall directly into the events of Heavenfall (the original Episode 1). It focuses on Lorcan—now fully embodying Oblivion—returning with vengeful might to cause the final fall of the heavens. His actions ignite a massive multi-universal battle, forcing Cassian (transformed into the Aether Sovereign through his sacrifice) into a fraternal, eternal struggle against his old friend and rival. The cosmic clash ripples across universes, fracturing seals and awakening mortal avatars below, setting the stage for the mythquake in Heavenfall. Script paced for 22 minutes with high-drama action, emotional betrayal, and visual spectacle—optimized for GitHub as a shining anime showcase. (No new images provided; placeholders used based on thematic fit from previous assets.)*
@@ -330,6 +330,11 @@ Copy into **ep1_return_of_oblivion.md**. Images placed thematically (using previ
 
 *Pilot Ep0 complete: A 22-min arc of godly rivalry, rebellion, and sacrifice—priming the cosmic stakes for Heavenfall.*  
 **— Christopher Perry, 2025** 
+
+
+
+
+---
 ---
 ## Episode 1 — **HEAVENFALL**  
 ### Full Episode Script — 22-Minute Runtime  

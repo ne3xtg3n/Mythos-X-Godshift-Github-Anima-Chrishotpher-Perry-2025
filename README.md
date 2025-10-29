@@ -164,6 +164,7 @@
 ### Full Episode Script — 22-Minute Runtime  
 *By Christopher Perry — 2025*  
 *This episode bridges Episode 0: Before Heavenfall directly into the events of Heavenfall (the original Episode 1). It focuses on Lorcan—now fully embodying Oblivion—returning with vengeful might to cause the final fall of the heavens. His actions ignite a massive multi-universal battle, forcing Cassian (transformed into the Aether Sovereign through his sacrifice) into a fraternal, eternal struggle against his old friend and rival. The cosmic clash ripples across universes, fracturing seals and awakening mortal avatars below, setting the stage for the mythquake in Heavenfall. Script paced for 22 minutes with high-drama action, emotional betrayal, and visual spectacle—optimized for GitHub as a shining anime showcase. (No new images provided; placeholders used based on thematic fit from previous assets.)*
+
 <img width="1024" height="1024" alt="1000017755" src="https://github.com/user-attachments/assets/5a8ba82c-272e-406b-a441-ee862c8f65ec" />
 
 
@@ -177,14 +178,17 @@
 
 *The shattered remnants of Aetheria hover precariously above the mortal world, a ghostly silhouette against fractured skies. Faint hexagonal cracks linger in the ether, remnants of the near-Heavenfall. CASSIAN (now AETHER SOVEREIGN: luminous gold-white form, crystalline and empowered, but scarred from his sacrifice—eyes glowing fire-blue) patrols the ruins, his light-speed grace tempered by weary resolve. He senses a dark pulse growing—Lorcan's return.*
 
-[Placeholder: Image prompt for Aetheria Ruins - Shattered floating city in eternal twilight, debris and hexagonal sky cracks, Aether Sovereign patrolling with glowing blue eyes, dramatic anime atmosphere.]
+<img width="864" height="1184" alt="1000017758" src="https://github.com/user-attachments/assets/71f6da43-97fc-4a27-8ce8-4a3e50aed8a7" />
+
 
 **(SOUND: Eerie wind howls through debris. Subtle violet pulses build. Orchestral tension swells.)**
 
 **AETHER SOVEREIGN (CASSIAN)** (voice resonant, ancient yet pained)  
-“The seals hold... but for how long? Lorcan, old friend—if you're out there, turn back. Our rivalry doesn't have to end worlds.”  
+“damint Larconnnn are fighting should have caused this much pain. now the seal won't  hold you foul! why  Lorcan, your my oldest friend—if you're out there, turn back. Our rivalry doesn't have to end worlds.”  
 
 *A violet rift tears open in the void. LORCAN (now OBLIVION: massive, spiky violet-black entropy form, unbreakable shadow armor fused with raw chaos—pride amplified to villainous dominance) emerges, aura consuming light. He laughs, a guttural echo shaking the ruins.*
+
+<img width="896" height="1280" alt="1000017769" src="https://github.com/user-attachments/assets/5da3f901-f4c5-4319-8ebc-6a1b962b55be" />
 
 **OBLIVION (LORCAN)** (cold sneer, booming with arrogance)  
 “Turn back? I've ascended beyond your 'balance,' Cassian. The heavens are mine to crush—starting with this pathetic remnant!”  
@@ -204,8 +208,15 @@
 **AETHER SOVEREIGN** (mid-clash, pleading fraternal tone)  
 “We were brothers in arms, Lorcan! This power—you've let it consume you. Stop before you drag every universe into oblivion!”  
 
-**OBLIVION** (prideful rage, countering with void sweeps)  
-“Brothers? You chained me with your laws! Now, I am the void—unbreakable, unstoppable. Watch the heavens fall through my might!”  
+**Larcon-OBLIVION energy** (prideful rage, countering with void sweeps)  
+“Brothers? ha never you looked down on me for our entire lives 
+
+
+**Story** Lorcan, no longer just a shadow but Oblivion reborn, rejected the very name he was given. His true self was a void of limitless power, and Cassian's golden reflection of his pure heart was an insult to it. 
+
+
+**Larcon-OBLIVION energy** "This is no drill, brother," Lorcan snarled, his voice vibrating with cosmic hunger.
+"This is the final annulment of all Order i have heared his Voice. He calls for OBLIVION and distruction of order! This ends the Archons' reign now!"
 
 *Shockwaves breach universes: glimpses of collapsing stars, awakening entities. The fraternal struggle eternalizes—old friends locked in cosmic war.*
 
@@ -215,7 +226,7 @@
 
 *ARCHONIA (weakened, rallying survivors) monitors the core, alarms blaring as Lorcan's energy surges. The Wellspring pulses erratically, echoing Cassian's sacrifice. Lorcan bursts in, consuming residual power, his form growing more monstrous.*
 
-[Placeholder: Image prompt for Core Invasion - Shattered core chamber with alarms and energy surges, Oblivion bursting in to consume power, Archonia defiant, chaotic anime destruction scene.]
+![1000017770](https://github.com/user-attachments/assets/f48616a1-6638-4f57-8ba8-9b122e4e1fb3)
 
 **(SOUND: Overload crackles, alarms wail. Lorcan's menacing pulse dominates.)**
 
@@ -238,18 +249,28 @@
 **EXT. CROSS-UNIVERSAL BATTLEFIELD - CLIMAX BUILD (10:00–14:00)**  
 
 *The struggle spills into merged realms: shattered heavens from multiple universes collide. Lorcan's void attacks tear portals, summoning chaotic entities. Aether Sovereign counters with precise light blasts, but the fraternal bond weighs heavy—each blow a betrayal.*
-
-[Placeholder: Image prompt for Multi-Universal Clash - Merged realms battlefield with shattered heavens colliding, void portals and chaotic entities, intense god combat in anime style with dynamic action poses.]
+![1000017770](https://github.com/user-attachments/assets/50f7cafd-f8f8-4429-840e-fcaf959fbea9)
 
 **(SOUND: Dimensional explosions, roars from void beasts. Epic theme surges.)**
 
+
+**Story**
+The clash was no mere explosion; it was a wound in Aetheria's heart. Oblivion's power met the Aether Sovereign's light, and the city itself screamed in response. A shockwave tore across the firmament, not of air, but of fractured reality—the true, catastrophic Mythquake, an immediate, violent promise of the chaos Lorcan intended to deliver 
+
 **OBLIVION** (triumphant, unleashing a massive void wave)  
-“See? Universes bow to me! Your 'eternal struggle' ends in my shadow!”  
+“See? Universes bow to me! Your 'eternal struggle' ends in my shadow Brother!”  
 
 **AETHER SOVEREIGN** (dodging, resolve hardening)  
-“Not while I stand, old friend. For every world you threaten, I'll fight—our bond demands it!”  
+“Not while I stand, old friend. For every world you threaten, is a world to.manh my bond demands you to stop your not thinking straight!”  
 
 *The battle ignites fully: allied gods from other universes join briefly, but Lorcan's unbreakable might overwhelms, pushing heavens toward final collapse.*
+<img width="896" height="1280" alt="1000017771" src="https://github.com/user-attachments/assets/84974d0e-52d9-47c0-a574-e43d06f700b9" />
+
+**Story**
+
+swash bang A brittle silence followed the rupture. Cassian, battered but resolute, moved with the speed of pure light. Lorcan, the heavy shadow, met him again. 
+
+**Larcon-Oblivion energy- "Still clinging to the laws, Cassian?"         Lorcan's voice was a low rumble, filled with contempt for the rules that kept their true potential caged. The Archons had always feared the unlimited.
 
 **CUT TO:**
 

@@ -136,7 +136,7 @@
 ![Wellspring Surge](https://github.com/user-attachments/assets/32dcf4c6-91f6-46bb-a723-0817a50e535f)
 
 **ARCHONIA** (kneeling beside him, voice breaking)  
-“You've saved us... but at what price? Lorcan's free now, carrying the seed of Oblivion.”  
+“You've saved us... but at what price? Lorcan's free now, carrying the seed of Oblivion this power can not be controled it will consume him and use a Cassian.”  
 
 **CUT TO:**
 
@@ -201,8 +201,6 @@
 
 *Ripples spread: parallel universes flicker into view—alternate realms where gods clash eternally. Lorcan's return fractures barriers, pulling them into a massive battle. Aether Sovereign dashes at light-speed, fists meeting Lorcan's unshakable force in a reality-warping skirmish.*
 
-[Placeholder: Image prompt for Universal Fracture - Multi-universal void with rippling parallel realms, gods clashing in light-speed combat, fractured barriers and collapsing stars, high-energy anime style.]
-
 **(SOUND: Cosmic thunder, dimensional rips. Aether's chime vs. Oblivion's growl intensifies.)**
 
 **AETHER SOVEREIGN** (mid-clash, pleading fraternal tone)  
@@ -231,18 +229,18 @@
 **(SOUND: Overload crackles, alarms wail. Lorcan's menacing pulse dominates.)**
 
 **ARCHONIA** (defiant, to Lorcan)  
-“Your rebellion failed once. The Sovereign will stop you again—the seals won't break!”  
+“Your rebellion failed once please dont let your pride be the death of us all. The Sovereign will stop you again—the seals won't break he will kill use all then you dont you get that!”  
 
 **OBLIVION** (sneering, hand plunging into the core)  
-“Failed? It awakened me! Now, I consume it all—igniting the battle across universes!”  
+“Failed? It awakened me! Now, I consume it all—igniting the battle across universes!”  You think you have the answers don't, His voice got more demonic as he held"
 
 *Aether Sovereign arrives, blocking with a luminous barrier. Their clash escalates, fracturing the core further—multi-universal echoes amplify the fight.*
 
 **AETHER SOVEREIGN** (straining, emotional)  
-“Lorcan, this isn't strength—it's madness! Remember our drills? We pushed each other to protect, not destroy!”  
+“Lorcan, this isn't strength—it's madness! Remember our trainings ? We pushed each other to protect, not destroy!”  
 
 **OBLIVION** (exploding with dominance)  
-“Protection? Weakness! Feel my might—the heavens fall now!”  
+“Protection? Weakness! Feel my might—the heavens fall now!”  The universe is fraud and needs to be destroyed and returned tk darkness once all is destroyed and there will be peace 
 
 **CUT TO:**
 
@@ -264,13 +262,14 @@ The clash was no mere explosion; it was a wound in Aetheria's heart. Oblivion's 
 “Not while I stand, old friend. For every world you threaten, is a world to.manh my bond demands you to stop your not thinking straight!”  
 
 *The battle ignites fully: allied gods from other universes join briefly, but Lorcan's unbreakable might overwhelms, pushing heavens toward final collapse.*
+
 <img width="896" height="1280" alt="1000017771" src="https://github.com/user-attachments/assets/84974d0e-52d9-47c0-a574-e43d06f700b9" />
 
 **Story**
 
-swash bang A brittle silence followed the rupture. Cassian, battered but resolute, moved with the speed of pure light. Lorcan, the heavy shadow, met him again. 
+Swash Bang Bang Bang BANGGGGGG!!! A brittle silence followed the rupture. Cassian, battered but resolute, moved with the speed of pure light. Lorcan, the heavy shadow, met him again. 
 
-**Larcon-Oblivion energy- "Still clinging to the laws, Cassian?"         Lorcan's voice was a low rumble, filled with contempt for the rules that kept their true potential caged. The Archons had always feared the unlimited.
+**Larcon-Oblivion energy- "Still clinging to the laws, Cassian?"         Lorcan's voice was a low rumble, filled with contempt for the rules that kept their true potential caged. The Archons had always feared the unlimited. THIS WILL BE YOUR END
 
 **CUT TO:**
 

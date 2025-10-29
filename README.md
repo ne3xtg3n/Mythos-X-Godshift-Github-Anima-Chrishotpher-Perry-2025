@@ -156,8 +156,6 @@
 ---
 ---
 
-<img width="1024" height="1024" alt="1000017755" src="https://github.com/user-attachments/assets/5a8ba82c-272e-406b-a441-ee862c8f65ec" />
-
 
 # Mythos X: Godshift  
 ## Episode 0 Part2 Pilot — **The Return of Oblivion**  
@@ -178,8 +176,6 @@
 
 *The shattered remnants of Aetheria hover precariously above the mortal world, a ghostly silhouette against fractured skies. Faint hexagonal cracks linger in the ether, remnants of the near-Heavenfall. CASSIAN (now AETHER SOVEREIGN: luminous gold-white form, crystalline and empowered, but scarred from his sacrifice—eyes glowing fire-blue) patrols the ruins, his light-speed grace tempered by weary resolve. He senses a dark pulse growing—Lorcan's return.*
 
-<img width="864" height="1184" alt="1000017758" src="https://github.com/user-attachments/assets/71f6da43-97fc-4a27-8ce8-4a3e50aed8a7" />
-
 
 **(SOUND: Eerie wind howls through debris. Subtle violet pulses build. Orchestral tension swells.)**
 
@@ -189,6 +185,9 @@
 *A violet rift tears open in the void. LORCAN (now OBLIVION: massive, spiky violet-black entropy form, unbreakable shadow armor fused with raw chaos—pride amplified to villainous dominance) emerges, aura consuming light. He laughs, a guttural echo shaking the ruins.*
 
 <img width="896" height="1280" alt="1000017769" src="https://github.com/user-attachments/assets/5da3f901-f4c5-4319-8ebc-6a1b962b55be" />
+
+![1000017758](https://github.com/user-attachments/assets/4449c965-0e35-46e4-9ab9-ae48c1f63101)
+
 
 **OBLIVION (LORCAN)** (cold sneer, booming with arrogance)  
 “Turn back? I've ascended beyond your 'balance,' Cassian. The heavens are mine to crush—starting with this pathetic remnant!”  
@@ -223,8 +222,6 @@
 **INT. AETHERIA'S SHATTERED CORE - CONTINUOUS (06:00–10:00)**  
 
 *ARCHONIA (weakened, rallying survivors) monitors the core, alarms blaring as Lorcan's energy surges. The Wellspring pulses erratically, echoing Cassian's sacrifice. Lorcan bursts in, consuming residual power, his form growing more monstrous.*
-
-![1000017770](https://github.com/user-attachments/assets/f48616a1-6638-4f57-8ba8-9b122e4e1fb3)
 
 **(SOUND: Overload crackles, alarms wail. Lorcan's menacing pulse dominates.)**
 
@@ -277,15 +274,16 @@ Swash Bang Bang Bang BANGGGGGG!!! A brittle silence followed the rupture. Cassia
 
 *Aether Sovereign channels his fire-blue eyes' power—remnant of the Wellspring—creating a crystalline shield. Lorcan hammers it with entropy fists, cracks spreading like veins across realities. Below, on Earth, faint awakenings stir (foreshadowing Jax, Kael, Banner).*
 
-[Placeholder: Image prompt for Fraternal Duel - Heaven's edge with crystalline shield cracking under entropy attacks, close-up on gods' intense fraternal struggle, dramatic lighting and cosmic veins in anime style.]
+![1000017773](https://github.com/user-attachments/assets/da6f1ed2-7fa3-44aa-998a-81fcd668f13e)
+
 
 **(SOUND: Crystalline chimes shatter under growls. Universal groans echo.)**
 
 **AETHER SOVEREIGN** (pained, fraternal plea)  
-“We were rivals, not enemies! This fall—it's not victory; it's the end of everything we fought for!”  
+“We were rivals, not enemies! This fall—it's not victory; it's the end of everything we fought for what are you doing Larcon!”  
 
 **OBLIVION** (arrogant laugh, breaking through)  
-“Rivals? I surpass you! Feel the might that ignites the multi-universal war—your heavens crumble!”  
+“Rivals? Larcon laughs with a massive right duck hot his face ugh.  I surpassed you! Feel the might that ignites the multi-universal war—your heavens will crumble under my fist! 
 
 *The shield shatters; Lorcan's blow sends shockwaves downward, initiating the mythquake.*
 
@@ -293,9 +291,9 @@ Swash Bang Bang Bang BANGGGGGG!!! A brittle silence followed the rupture. Cassia
 
 **EXT. FALLING HEAVENS - CLIMAX (18:00–21:00)**  
 
-*Heavens plummet fully—Lorcan's might realized. Aether Sovereign rallies for one final stand, merging with residual Aether to counter. The eternal struggle peaks: light vs. void in a reality-warping duel, universes bleeding into one.*
+*Heavens plummet fully—Lorcan's might realized. Aether Sovereign rallies for one final stand, merging with residual Aether to counter. The eternal struggle peaks: light vs. void in a reality-warping duel, universes bleeding into one. Larcons Energy Grows Passed his old Friends even though he has Merged with Oblivion fully, His body start to transform showing his new foram as he grow strong both start transforing evern there clows and hair start to change *
 
-[Placeholder: Image prompt for Heaven's Final Fall - Plummeting heavens in chaos, light vs. void duel at peak intensity, universes bleeding together, epic scale anime destruction.]
+![1000017775](https://github.com/user-attachments/assets/e75dfdc0-dc3a-48f3-9696-5388801f81cd)
 
 **(SOUND: Deafening roars, dimensional tears. Climactic orchestral peak.)**
 
@@ -311,14 +309,16 @@ Swash Bang Bang Bang BANGGGGGG!!! A brittle silence followed the rupture. Cassia
 
 **EXT. EARTH'S SKY - RESOLUTION TEASER (21:00–22:00)**  
 
-*The clash fades; heavens stabilize momentarily as a ruin. Lorcan is repelled into the void, but his seed of Oblivion plants—leading to Heavenfall. Aether Sovereign weakens, gazing below.*
+*The clash fades; heavens stabilize momentarily as a ruin. Lorcan is repelled into the void, but his seed of Oblivion plants—leading to Heavenfall. Aether Sovereign weakens, gazing below.* The Heavens Have Fallen and all of the Gods where now Spread accords the Universe Lost looking for a Mortal host to forgive the wills. over 6Billion Gods where now coming the stars some infused with OBLIVIAN essence as its always seeking new Host. 
 
-[Placeholder: Image prompt for Mythquake Ignition - Earth's sky with hexagonal fractures from cosmic collision, awakening ripples below, teaser for mortal avatars in dramatic anime vista.]
+
 
 **(SOUND: Fading reverberation. Narrator overlay.)**
 
 **NARRATOR (V.O.)** (solemn)  
-“The fraternal struggle ignites eternal war. Heavens fall, universes clash—and below, mortals awaken to the Godshift.”  
+“The fraternal struggle ignites eternal war. Heavens fall, universes clash—and below, mortals awaken to the Godshift.”  At this time Oblivion And Larcon have fully merged along with Cassiaon and the Sovereign there mortal form has sheed while there spiritual universe battle spill into an unexpected universe.
+
+<img width="1024" height="1024" alt="1000017774" src="https://github.com/user-attachments/assets/24da7571-5d39-48bf-8c69-fb1149351941" />
 
 **FADE OUT.**
 
@@ -326,14 +326,11 @@ Swash Bang Bang Bang BANGGGGGG!!! A brittle silence followed the rupture. Cassia
 
 *Earth: Hexagonal sky fractures. Whispers: “The mythquake comes...” Cut to Jax's gym, gold sparks faint.*
 
+
 **FADE TO BLACK.**
 
 ---
-
-## How to Make Your GitHub Shine  
-Copy into **ep1_return_of_oblivion.md**. Images placed thematically (using previous assets as placeholders). Add to repo structure: `/scripts/ep0.md`, `/scripts/ep1.md`. Encourage stars/forks with badges.  
-
-*Episode 1 complete: A 22-min arc of return, multi-universal ignition, and fraternal struggle—seamlessly leading to Heavenfall.*  
+*Episode 0 Part 2 complete: A 22-min arc of return, multi-universal ignition, and fraternal struggle—seamlessly leading to Heavenfall.*  
 **— Christopher Perry, 2025**
 
 ---
@@ -347,10 +344,6 @@ Copy into **ep1_return_of_oblivion.md**. Images placed thematically (using previ
 **FADE TO BLACK.**
 
 ---
-
-*Pilot Ep0 complete: A 22-min arc of godly rivalry, rebellion, and sacrifice—priming the cosmic stakes for Heavenfall.*  
-**— Christopher Perry, 2025** 
-
 
 
 
